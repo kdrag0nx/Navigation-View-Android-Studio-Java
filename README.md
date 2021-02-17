@@ -1,4 +1,4 @@
-#BOTTOM NAVIGATION MENU BAR IN ANDROID STUDIO
+# Naviagtion View : Android STUDIO - JAVA
 
 **Hello , In this repository you will get to see how to create a NAVIGATION BAR in your app in android studio using Java**
 
@@ -72,7 +72,7 @@ Step 6: Go to **MainActivity.java** and create instance using
 
 >private BottomNavigationView bottomNavigationView;
 
-and also assign it with id:
+and also assign it with id in `onCreate Method`:
 >bottomNavigationView = findViewById(R.id.nav_view);
 
  and then overall code :
