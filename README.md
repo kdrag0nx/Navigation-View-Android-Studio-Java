@@ -1,4 +1,4 @@
-# Navigation View : Android STUDIO - JAVA[](https://youtu.be/2UP6mdEKXAU, "Crazy Indian Coder - Naviagtion view")
+# [Navigation View : Android STUDIO - JAVA](https://youtu.be/2UP6mdEKXAU, "Crazy Indian Coder - Naviagtion view")
 
 **Hello , In this repository you will get to see how to create a NAVIGATION BAR in your app in android studio using Java**
 
