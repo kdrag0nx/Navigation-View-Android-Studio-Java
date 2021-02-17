@@ -5,7 +5,7 @@
 STEP 1 : Add dependencies to `Gradle Script` -> `build.gradle` -> `Module:App-Name.app`
 ```
 dependencies{
- implementation 'com.android.material:material:1.0.0'
+ implementation 'com.google.android.material:material:1.0.0'
 }
 ```
 Step 2 :``Gradle Sync ``
